@@ -11,6 +11,10 @@ Technology stack By LockieDeng
    :caption: Contents:
 
    Curriculum/index
+   PHP/contents
+   JAVA/contents
+   PYTHON/contents
+   VUE/contents
 
 Indices and tables
 ==================
