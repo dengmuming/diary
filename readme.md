@@ -22,3 +22,8 @@ $python3 -m pip freeze > requirements.txt
 
 ### 报错  Could not import extension nbsphinx  (exception: No module named 'nbsphinx')
 ```在项目根目录创建文件，每一行写一个配置如：nbsphinx
+
+## 学习链接
+```
+https://coderlemon.com/share/1024.html#%E8%B6%85%E8%BF%87500%E6%9C%AC-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D-pdf-%E5%88%86%E4%BA%AB
+```
