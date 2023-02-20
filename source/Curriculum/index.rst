@@ -4,4 +4,4 @@
 .. toctree::
    :maxdepth: 2
 
-   Operating System/contents
+   OperatingSystem/contents
