@@ -12,6 +12,8 @@
 ```
 https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
 ```
+
+## 报错处理
 ### 报错 Could not import extension sphinx_markdown_tables (exception: No module name
 原因是ReadTheDocs的python环境没有对应的第三方库文件，需要在项目根目录执行如下命令生成requirements.txt，这样ReadTheDocs会自动安装对应的插件依赖。
 ```
@@ -19,5 +21,4 @@ $python3 -m pip freeze > requirements.txt
 ```
 
 ### 报错  Could not import extension nbsphinx  (exception: No module named 'nbsphinx')
-
-![image-20230220133034769](.\readme.assets\image-20230220133034769.png)
+```在项目根目录创建文件，每一行写一个配置如：nbsphinx
