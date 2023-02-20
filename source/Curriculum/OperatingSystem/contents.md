@@ -1,6 +1,6 @@
-# Operating System
+# Operating System | 操作系统
 
-## Course content
+## Course content | 课程内容
 
 ### 第一章
 
@@ -8,7 +8,7 @@
 
 ### 第三章
 
-## Course summary
+## Course summary | 课程小结
 
 ### 死锁产生的必要条件
 - 1、互斥条件
