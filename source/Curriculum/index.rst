@@ -4,4 +4,4 @@ Computer and Science
 .. toctree::
    :maxdepth: 2
 
-   OperatingSystem/contents
+   OperatingSystem | 本科课程/contents
