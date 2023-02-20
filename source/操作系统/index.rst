@@ -4,7 +4,8 @@
 .. toctree::
    :maxdepth: 2
 
-   01/contents
-   02/contents
-   练习选择题一/contents
-   练习选择题二/contents
+   第一章
+   第二章
+   练习选择题一
+   练习选择题二
+   
